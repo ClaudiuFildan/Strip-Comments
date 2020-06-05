@@ -14,10 +14,7 @@ namespace FirstApplication
 
             string[] InputString;
             InputString = InputString1.Split(MarkerString1, StringSplitOptions.RemoveEmptyEntries);
-
-                   
-            
-            
+           
 
             // Variable AuxiliarStringLoop is used to keep the resulted strings from the split operation.
             // Variable AuxiliarString is used to keep each row of the processed string.

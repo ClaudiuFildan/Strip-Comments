@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\filda\\source\\repos\\FirstApplication\\FirstApplication.csproj": {}
+    "C:\\Users\\filda\\Documents\\GitHub\\Strip-Comments\\FirstApplication\\FirstApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\filda\\source\\repos\\FirstApplication\\FirstApplication.csproj": {
+    "C:\\Users\\filda\\Documents\\GitHub\\Strip-Comments\\FirstApplication\\FirstApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\filda\\source\\repos\\FirstApplication\\FirstApplication.csproj",
+        "projectUniqueName": "C:\\Users\\filda\\Documents\\GitHub\\Strip-Comments\\FirstApplication\\FirstApplication.csproj",
         "projectName": "FirstApplication",
-        "projectPath": "C:\\Users\\filda\\source\\repos\\FirstApplication\\FirstApplication.csproj",
+        "projectPath": "C:\\Users\\filda\\Documents\\GitHub\\Strip-Comments\\FirstApplication\\FirstApplication.csproj",
         "packagesPath": "C:\\Users\\filda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\filda\\source\\repos\\FirstApplication\\obj\\",
+        "outputPath": "C:\\Users\\filda\\Documents\\GitHub\\Strip-Comments\\FirstApplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\filda\\AppData\\Roaming\\NuGet\\NuGet.Config",
