@@ -1,0 +1,13 @@
+C:\Users\filda\source\repos\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.exe
+C:\Users\filda\source\repos\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.deps.json
+C:\Users\filda\source\repos\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.runtimeconfig.json
+C:\Users\filda\source\repos\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.runtimeconfig.dev.json
+C:\Users\filda\source\repos\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.dll
+C:\Users\filda\source\repos\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.pdb
+C:\Users\filda\source\repos\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.csprojAssemblyReference.cache
+C:\Users\filda\source\repos\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.csproj.CoreCompileInputs.cache
+C:\Users\filda\source\repos\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.AssemblyInfoInputs.cache
+C:\Users\filda\source\repos\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.AssemblyInfo.cs
+C:\Users\filda\source\repos\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.dll
+C:\Users\filda\source\repos\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.pdb
+C:\Users\filda\source\repos\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.genruntimeconfig.cache
